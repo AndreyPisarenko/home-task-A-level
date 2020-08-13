@@ -1,6 +1,6 @@
 package ua.com.solSys;
 
-public  class Mercury implements Planet{
+public class Mercury implements Planet {
 
     @Override
     public void USP() {

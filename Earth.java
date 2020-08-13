@@ -1,6 +1,6 @@
 package ua.com.solSys;
 
-public class Earth implements Planet{
+public class Earth implements Planet {
     @Override
     public void USP() {
         System.out.println("Ускорение свободного падения на Земле = " + 9.807 + "м/с");
